@@ -1,0 +1,18 @@
+{
+  "name": "waf-test-website",
+  "version": "1.0.0",
+  "description": "Simple website to test SafeLine WAF",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["waf", "test", "safeline"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
